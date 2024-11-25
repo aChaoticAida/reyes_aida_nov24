@@ -1,0 +1,3 @@
+# Vay a ignorar los siguientes archivos
+*.xsd
+docs/
